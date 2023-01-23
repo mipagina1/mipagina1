@@ -114,7 +114,7 @@ html{
 /* Css Para Responsive */ 
 
 
-@media only screen and (max-width: 1300px) {    
+@media only screen and (max-width: 1300px) {
     .video{
         margin: 50px;
     }
